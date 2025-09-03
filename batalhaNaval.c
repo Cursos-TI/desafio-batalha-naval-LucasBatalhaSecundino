@@ -31,7 +31,7 @@ int main() {
         tabuleiro[linhanavio2 + i][colunaNavio2 + i] = 3; 
     }
 
-    // navio diagonal 
+    //   navio diagonal 
     int colunaNavio3 = 9; // coluna 10 (9)
     int linhanavio3 = 3;  // linha I (8)
     int tamanhoNavio4 = 3;
